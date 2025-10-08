@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/carinabentlin/carinabentlin/blob/main/banner.jpg" alt="Banner Carina Bentlin" />
+  <img src="https://github.com/carinabentlin/carinabentlin/blob/main/banner.jpg" alt="Banner Carina Bentlin" width="100%" />
 </p>
+
 
 # 👩‍💻 Carina Bentlin  
 
