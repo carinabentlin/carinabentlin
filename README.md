@@ -14,7 +14,29 @@ Atualmente estou **trilhando minha transição de carreira para a tecnologia**, 
 - Java | Spring Boot | MySQL | HTML | CSS | JavaScript  
 - Boas práticas de programação, versionamento Git/GitHub e metodologias ágeis  
 
-Meu objetivo é **unir a vivência em gestão e inovação à tecnologia**, desenvolvendo soluções que conectem pessoas, processos e diversidade.  
+Meu objetivo é **unir a vivência em gestão, criatividade, inovação à tecnologia**, desenvolvendo soluções que conectem pessoas, processos e diversidade.  
+
+---
+
+## 📊 Minhas Estatísticas no GitHub  
+
+<p align="center">
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=carinabentlin&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" />
+  
+  <!-- Linguagens -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carinabentlin&layout=compact&theme=radical" alt="Top Langs" height="180em" />
+</p>
+
+<p align="center">
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carinabentlin&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Troféus -->
+  <img src="https://github-profile-trophy.vercel.app/?username=carinabentlin&theme=onedark" alt="GitHub Trophies" />
+</p>
 
 ---
 
