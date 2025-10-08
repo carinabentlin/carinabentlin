@@ -37,7 +37,6 @@ Meu objetivo é **unir a vivência em gestão, criatividade, inovação à tecno
 
 ---
 
-## 🚀 Skills
 
 ## 🚀 My Skills
 
