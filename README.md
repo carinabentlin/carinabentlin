@@ -2,7 +2,7 @@
   <img src="https://github.com/carinabentlin/carinabentlin/blob/main/banner.jpg" alt="Banner Carina Bentlin" width="100%" />
 </p>
 
-![Snake animation](https://github.com/carinabentlin/carinabentlin/blob/output/github-contribution-grid-snake.svg)
+
 
 # 👩‍💻 Carina Bentlin  
 
@@ -12,10 +12,9 @@ Sou profissional com mais de **16 anos de experiência** em **gestão de projeto
 Atualmente estou **trilhando minha transição de carreira para a tecnologia**, sem deixar de lado minha jornada na cultura e inovação.  
 
 📚 Estou cursando o **Bootcamp Desenvolvedor Fullstack Java – Generation Brasil** (conclusão em dez/2025), com foco em:  
-- Java | Spring Boot | MySQL | HTML | CSS | JavaScript  
-- Boas práticas de programação, versionamento Git/GitHub e metodologias ágeis  
+- Java | Spring Boot | MySQL | HTML | CSS | JavaScript |TypeScript | Node.js | Git/GitHub | metodologias ágeis  
 
-Meu objetivo é **unir a vivência em gestão, criatividade, inovação à tecnologia**, desenvolvendo soluções que conectem pessoas, processos e diversidade.  
+Meu objetivo é **unir a vivência em gestão, criatividade, inovação à tecnologia**, desenvolvendo soluções que conectem pessoas e processos.
 
 ---
 
