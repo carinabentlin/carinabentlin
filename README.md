@@ -49,7 +49,7 @@ Meu objetivo é **unir a vivência em gestão, criatividade, inovação à tecno
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### 🔧 Secondary Stack
+### 🔧 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -60,7 +60,7 @@ Meu objetivo é **unir a vivência em gestão, criatividade, inovação à tecno
 - Programação Orientada a Objetos (POO)  
 - Git e GitHub (controle de versão e colaboração)  
 - Estruturas de Dados e Algoritmos  
-- Metodologias Ágeis (Scrum, Kanban)  
+- Metodologias Ágeis (Scrum, Kanban, Trello)  
 - Soft Skills: comunicação, liderança, colaboração e resolução de problemas  
 
 ---
